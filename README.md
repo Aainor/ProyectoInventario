@@ -57,4 +57,3 @@ El código sigue el principio de **Separación de Responsabilidades** (MVC simpl
 
 * **Belén** - *Tutora en TalentoTech*
 * **Nicolás Riquelme** - *Instructor en TalentoTech*
----
