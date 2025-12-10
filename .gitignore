@@ -1,0 +1,6 @@
+# Python cache (basura que genera python)
+__pycache__/
+*.pyc
+
+# Base de datos (se genera sola al correr el programa)
+*.db
