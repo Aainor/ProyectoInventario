@@ -34,7 +34,7 @@ El código sigue el principio de **Separación de Responsabilidades** (MVC simpl
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/Aainor/ProyectoInventario.git](https://github.com/Aainor/ProyectoInventario.git)
+    git clone https://github.com/Aainor/ProyectoInventario.git
     cd ProyectoInventario
     ```
 
